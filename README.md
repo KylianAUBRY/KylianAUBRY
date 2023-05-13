@@ -21,7 +21,7 @@ Get_next_line : [![kyaubry's 42 get_next_line Score](https://badge42.vercel.app/
 
 ft_printf : [![kyaubry's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3069014)](https://github.com/JaeSeoKim/badge42)
 
-Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3063854)](https://github.com/JaeSeoKim/badge42)
+Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3063854)](https://github.com/KylianAUBRY/Libft)
 
 ## Statistics
 
