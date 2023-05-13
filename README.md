@@ -23,7 +23,7 @@ ft_printf : [![kyaubry's 42 ft_printf Score](https://badge42.vercel.app/api/v2/c
 
 Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3063854)](https://github.com/KylianAUBRY/Libft)
 
-###42 Piscine
+### 42 Piscine
 
 [![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
