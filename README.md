@@ -4,6 +4,11 @@
 [![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=21&coalitionId=332)](https://github.com/JaeSeoKim/badge42)
 
 ### 42 Projects done
+
+Philosophers : [![kyaubry's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3090442)](https://github.com/JaeSeoKim/badge42)
+
+Exam Rank 03 : [![kyaubry's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3090432)](https://github.com/JaeSeoKim/badge42)
+
 Minitalk : [![kyaubry's 42 minitalk Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3084704)](https://github.com/JaeSeoKim/badge42)
 
 Exam Rank 02 : [![kyaubry's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3081711)](https://github.com/JaeSeoKim/badge42)
