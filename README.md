@@ -25,4 +25,4 @@ ft_printf : [![kyaubry's 42 ft_printf Score](https://badge42.vercel.app/api/v2/c
 
 Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3063854)](https://github.com/JaeSeoKim/badge42)
 
-![KylianAUBRY GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianAUBRY&show_icons=true&theme=radical)
+![KylianAUBRY GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesNkdl&show_icons=true&theme=radical)
