@@ -1,7 +1,9 @@
 ## 42 Cursus
-[![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=21&coalitionId=332)](https://github.com/JaeSeoKim/badge42)
+[![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=21&coalitionId=332)](https://github.com/KylianAUBRY)
 
 ### 42 Projects done
+
+Minishell : [![kyaubry's 42 minishell Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3115718)](https://github.com/KylianAUBRY/minishell)
 
 Philosophers : [![kyaubry's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3090442)](https://github.com/KylianAUBRY/philosophers)
 
