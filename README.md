@@ -3,6 +3,8 @@
 
 ### 42 Projects done
 
+Exam Rank 03 : [![kyaubry's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3237911)](https://github.com/KylianAUBRY)
+
 Minishell : [![kyaubry's 42 minishell Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3115718)](https://github.com/KylianAUBRY/minishell)
 
 Philosophers : [![kyaubry's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3090442)](https://github.com/KylianAUBRY/philosophers)
@@ -27,7 +29,7 @@ Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg
 
 ### 42 Piscine
 
-[![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=9&coalitionId=piscine)](https://github.com/KylianAUBRY)
 
 ## Statistics
 
