@@ -1,6 +1,8 @@
-## 42 Cursus
+Hello World !
 
-[![kyaubry's 42 stats](https://badge.mediaplus.ma/darkblue/kyaubry)](https://profile.intra.42.fr/users/kyaubry)
+I'm kylian, a student at 42 Le Havre.
+
+[42 Le Havre](https://www.42lehavre.fr) !
 
 ----------
 
