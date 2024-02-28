@@ -3,13 +3,13 @@
 
 ### 42 Projects done
 
-Exam Rank 04 : [![kyaubry's 42 Exam Rank 04 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2004.png)](https://github.com/KylianAUBRY)
+[![kyaubry's 42 Exam Rank 04 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2004.png)](https://github.com/KylianAUBRY)
 
 [![kyaubry's 42 minishell Score](https://github.com/KylianAUBRY/IMG/blob/master/minishelle.png)](https://github.com/KylianAUBRY/minishell)
 
 [![kyaubry's 42 Philosophers Score](https://github.com/KylianAUBRY/IMG/blob/master/philosophersm.png)](https://github.com/KylianAUBRY/philosophers)
 
-Exam Rank 03 : [![kyaubry's 42 Exam Rank 03 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2003.png)](https://github.com/KylianAUBRY)
+[![kyaubry's 42 Exam Rank 03 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2003.png)](https://github.com/KylianAUBRY)
 
 [![kyaubry's 42 minitalk Score](https://github.com/KylianAUBRY/IMG/blob/master/minitalkm.png)](https://github.com/KylianAUBRY/minitalk)
 
@@ -17,7 +17,7 @@ Exam Rank 03 : [![kyaubry's 42 Exam Rank 03 Score](https://github.com/KylianAUBR
 
 [![kyaubry's 42 so_long Score](https://github.com/KylianAUBRY/IMG/blob/master/so_longm.png)](https://github.com/KylianAUBRY/so_long)
 
-Exam Rank 02 : [![kyaubry's 42 Exam Rank 02 Score](https://github.com/KylianAUBRY/IMG/blob/master/Exam%20rank%2002.png)](https://github.com/KylianAUBRY)
+[![kyaubry's 42 Exam Rank 02 Score](https://github.com/KylianAUBRY/IMG/blob/master/Exam%20rank%2002.png)](https://github.com/KylianAUBRY)
 
 [![kyaubry's 42 Born2beroot Score](https://github.com/KylianAUBRY/IMG/blob/master/born2berootm.png)](https://github.com/KylianAUBRY)
 
