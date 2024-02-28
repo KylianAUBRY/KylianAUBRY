@@ -1,5 +1,6 @@
 ## 42 Cursus
-[![kyaubry's 42 stats](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/stats?cursusId=21&coalitionId=332)](https://github.com/KylianAUBRY)
+
+[![<kyaubry>'s 42 stats](https://badge.mediaplus.ma/darkblue/<kyaubry>)](https://profile.intra.42.fr/users/kyaubry)
 
 ### 42 Projects done
 
