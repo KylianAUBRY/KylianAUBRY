@@ -23,7 +23,7 @@ Born2beroot : [![kyaubry's 42 Born2beroot Score](https://badge42.vercel.app/api/
 
 Get_next_line : [![kyaubry's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3067065)](https://github.com/KylianAUBRY/get_next_line)
 
-ft_printf : [![kyaubry's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3069014)](https://github.com/KylianAUBRY/ft_printf)
+ft_printf : [![kyaubry's 42 ft_printf Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_printfm.png)](https://github.com/KylianAUBRY/ft_printf)
 
 Libft : [![kyaubry's 42 Libft Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3063854)](https://github.com/KylianAUBRY/Libft)
 
