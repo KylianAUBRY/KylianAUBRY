@@ -2,7 +2,7 @@
 
 [![kyaubry's 42 stats](https://badge.mediaplus.ma/darkblue/kyaubry)](https://profile.intra.42.fr/users/kyaubry)
 
---------
+----------
 
 ### 42 School Projects
 
