@@ -2,7 +2,9 @@
 
 [![kyaubry's 42 stats](https://badge.mediaplus.ma/darkblue/kyaubry)](https://profile.intra.42.fr/users/kyaubry)
 
-### 42 Projects done
+--------
+
+### 42 School Projects
 
 [![kyaubry's 42 ft_irc Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_ircm.png)](https://github.com/KylianAUBRY/ft_irc) [![kyaubry's 42 inception Score](https://github.com/KylianAUBRY/IMG/blob/master/inceptione.png)](https://github.com/KylianAUBRY/inception)
 [![kyaubry's 42 Exam Rank 05 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2005.png)](https://github.com/KylianAUBRY)
