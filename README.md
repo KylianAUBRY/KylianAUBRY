@@ -15,7 +15,7 @@ Exam Rank 03 : [![kyaubry's 42 Exam Rank 03 Score](https://badge42.vercel.app/ap
 
 Exam Rank 02 : [![kyaubry's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clhmf8tlg002108l3bxq4bi3o/project/3081711)](https://github.com/KylianAUBRY)
 
-[![kyaubry's 42 push_swap Score](https://github.com/KylianAUBRY/IMG/blob/master/so_longm.png)](https://github.com/KylianAUBRY/push_swap)
+[![kyaubry's 42 push_swap Score](https://github.com/KylianAUBRY/IMG/blob/master/push_swapm.png)](https://github.com/KylianAUBRY/push_swap)
 
 [![kyaubry's 42 so_long Score](https://github.com/KylianAUBRY/IMG/blob/master/so_longm.png)](https://github.com/KylianAUBRY/so_long)
 
