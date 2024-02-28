@@ -32,11 +32,7 @@
 
 [![kyaubry's 42 Born2beroot Score](https://github.com/KylianAUBRY/IMG/blob/master/born2berootm.png)](https://github.com/KylianAUBRY)
 
-[![kyaubry's 42 get_next_line Score](https://github.com/KylianAUBRY/IMG/blob/master/get_next_linem.png)](https://github.com/KylianAUBRY/get_next_line)
-
-[![kyaubry's 42 ft_printf Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_printfm.png)](https://github.com/KylianAUBRY/ft_printf)
-
-[![kyaubry's 42 Libft Score](https://github.com/KylianAUBRY/IMG/blob/master/libftm.png)](https://github.com/KylianAUBRY/Libft)
+[![kyaubry's 42 get_next_line Score](https://github.com/KylianAUBRY/IMG/blob/master/get_next_linem.png)](https://github.com/KylianAUBRY/get_next_line) [![kyaubry's 42 ft_printf Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_printfm.png)](https://github.com/KylianAUBRY/ft_printf) [![kyaubry's 42 Libft Score](https://github.com/KylianAUBRY/IMG/blob/master/libftm.png)](https://github.com/KylianAUBRY/Libft)
 
 ### 42 Piscine
 
