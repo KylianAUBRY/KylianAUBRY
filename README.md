@@ -1,8 +1,6 @@
 Hello World !
 
-I'm kylian, a student at 42 Le Havre.
-
-[42 Le Havre](https://www.42lehavre.fr) !
+I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 
 ----------
 
