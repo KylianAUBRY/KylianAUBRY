@@ -20,4 +20,4 @@ I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 
 ## Statistics
 
-![KylianAUBRY GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianAUBRY&show_icons=true&theme=radical)
+![KylianAUBRY's GitHub stats](https://github-readme-stats.vercel.app/api?username=KylianAUBRY&show_icons=true&theme=dark)
