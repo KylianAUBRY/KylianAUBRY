@@ -3,6 +3,16 @@
 
 ### 42 Projects done
 
+[![kyaubry's 42 ft_irc Score](https://github.com/KylianAUBRY/IMG/blob/master/ft_ircm.png)](https://github.com/KylianAUBRY/ft_irc)
+
+[![kyaubry's 42 inception Score](https://github.com/KylianAUBRY/IMG/blob/master/inceptione.png)](https://github.com/KylianAUBRY/inception)
+
+[![kyaubry's 42 Exam Rank 05 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2005.png)](https://github.com/KylianAUBRY)
+
+[![kyaubry's 42 CPP Score](https://github.com/KylianAUBRY/IMG/blob/master/cppe.png)](https://github.com/KylianAUBRY/CPP)
+
+[![kyaubry's 42 cube3D Score](https://github.com/KylianAUBRY/IMG/blob/master/cub3dm.png)](https://github.com/KylianAUBRY/Cub3D)
+
 [![kyaubry's 42 Exam Rank 04 Score](https://github.com/KylianAUBRY/IMG/blob/master/exam%20rank%2004.png)](https://github.com/KylianAUBRY)
 
 [![kyaubry's 42 minishell Score](https://github.com/KylianAUBRY/IMG/blob/master/minishelle.png)](https://github.com/KylianAUBRY/minishell)
