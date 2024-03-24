@@ -2,6 +2,9 @@ Hello World !
 
 I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxime2i&label=Profile%20views&color=0e75b6&style=flat" alt="kyaubry" /> </p>
+
+
 ----------
 
 ### 42 School Projects
