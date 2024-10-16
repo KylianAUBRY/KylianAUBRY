@@ -14,6 +14,7 @@ I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 
 ### personal project
 
+[![kyaubry's 42 robozzle_42](https://github.com/KylianAUBRY/IMG/blob/master/robozzle_42.png)](https://github.com/42LeHavre/42LeHavreRoboZZle)
 [![kyaubry's 42 chess_game](https://github.com/KylianAUBRY/IMG/blob/master/chest_game.png)](https://github.com/KylianAUBRY/chess_game)
 [![kyaubry's 42 life_game](https://github.com/KylianAUBRY/IMG/blob/master/life_game.png)](https://github.com/KylianAUBRY/life_game)
 
