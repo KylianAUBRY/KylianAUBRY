@@ -6,7 +6,7 @@ I'm kylian, a student at [42 Le Havre](https://www.42lehavre.fr) !
 
 ----------
 
-### 42 after the common core
+### 42 After the common core
 
 [![kyaubry's 42 red_tetris Score](https://github.com/KylianAUBRY/IMG/blob/master/red_tetris.png)](https://github.com/KylianAUBRY/red-tetris)
 
